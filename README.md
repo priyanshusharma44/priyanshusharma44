@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [Blender](https://www.blender.org/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/priyanshusharma44?tab=repositories](https://github.com/priyanshusharma44?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://priyanshusharma44.github.io/profile/](https://priyanshusharma44.github.io/profile/)
 
-- 📝 I regularly write articles on [www.priyanshujamarkattel.com.np](www.priyanshujamarkattel.com.np)
+- 📝 I regularly write articles on [https://priyanshusharma44.github.io/profile/](https://priyanshusharma44.github.io/profile/)
 
 - 💬 Ask me about **AE, WordPress & Adobe**
 
