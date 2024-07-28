@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kattelpriyanshu" target="blank"><img src="https://img.shields.io/twitter/follow/kattelpriyanshu?logo=twitter&style=for-the-badge" alt="kattelpriyanshu" /></a> </p>
 
-- 🔭 I’m currently working on **Aftereffects & WordPress**
+- 🔭 I’m currently working at **Lunar IT Solution**
 
-- 🌱 I’m currently learning **FLUTTER, AE , WP & FIGMA**
+- 🌱 I’m currently learning **MERN, Dot Net**
 
 - 👯 I’m looking to collaborate on [WordPress Dokan](https://wordpress.org/plugins/dokan-lite/)
 
