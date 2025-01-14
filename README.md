@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working at **Lunar IT Solution**
 
-- 🌱 I’m currently learning **MERN, Dot Net**
+- 🌱 I’m currently learning **React & Dot Net**
 
 - 👯 I’m looking to collaborate on [WordPress Dokan](https://wordpress.org/plugins/dokan-lite/)
 
-- 🤝 I’m looking for help with [Blender](https://www.blender.org/)
+- 🤝 I’m looking for help with [AfterEffect](https://www.adobe.com/products/aftereffects.html/)
 
 - 👨‍💻 All of my projects are available at [https://priyanshusharma44.github.io/profile/](https://priyanshusharma44.github.io/profile/)
 
 - 📝 I regularly write articles on [https://priyanshusharma44.github.io/profile/](https://priyanshusharma44.github.io/profile/)
 
-- 💬 Ask me about **AE, WordPress & Adobe**
+- 💬 Ask me about **Motion Graphics(Editing),DOTNET,WP**
 
 - 📫 How to reach me **serjoramos4444@gmail.com**
 
