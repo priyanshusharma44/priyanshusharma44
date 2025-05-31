@@ -1,11 +1,14 @@
 <!--
   README Profile for Priyanshu Sharma
-  Modern, professional, stylish, and clean
+  Top part exactly as original,
+  rest is polished and consistent
 -->
 
-<h1 align="center">Hi 👋, I'm <b>Priyanshu Sharma</b></h1>
+<h1 align="center">Hi👋, I am <b>Priyanshu Sharma</b></h1>
 <p align="center" style="font-size: 1.2rem; font-style: italic; color: #4a4a4a;">
-  1010 <b>"Byte Wizard"</b> - "Read, Commit, Repeat" 1010
+  1010 "Byte Wizard" 1010
+  <br />
+  <em>"Read, Commit, Repeat" 1010</em>
 </p>
 
 <p align="center">
@@ -130,7 +133,9 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" title="Unreal Engine">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" style="margin: 5px" />
   </a>
- 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" style="margin: 5px" />
+  </a>
 </p>
 
 ---
