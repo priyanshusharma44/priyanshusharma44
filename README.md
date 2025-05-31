@@ -1,8 +1,6 @@
-<!--
-  README Profile for Priyanshu Sharma
-  Top part exactly as original,
-  rest is polished and consistent
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=priyanshusharma44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <h1 align="center">Hi👋, I am <b>Priyanshu Sharma</b></h1>
 <p align="center" style="font-size: 1.2rem; font-style: italic; color: #4a4a4a;">
@@ -15,9 +13,7 @@
   <img alt="Hacking GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshusharma44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 
