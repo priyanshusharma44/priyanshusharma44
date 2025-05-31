@@ -130,9 +130,7 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" title="Unreal Engine">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" style="margin: 5px" />
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" style="margin: 5px" />
-  </a>
+ 
 </p>
 
 ---
