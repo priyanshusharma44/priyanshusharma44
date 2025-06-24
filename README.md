@@ -13,8 +13,6 @@
   <img alt="Hacking GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" />
 </p>
 
-
-
 ---
 
 ## 🚀 About Me
@@ -155,4 +153,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusharma44&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits%20in%202025-90%25-brightgreen?style=flat" alt="Commits in 2025" />
 </p>
