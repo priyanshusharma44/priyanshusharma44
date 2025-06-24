@@ -151,9 +151,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharma44&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusharma44&theme=dark" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits%20in%202025-90%25-brightgreen?style=flat" alt="Commits in 2025" />
