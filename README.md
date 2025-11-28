@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working at **Lunar IT Solution**
-- 🌱 Learning **React & .NET**
+- 🌱 Learning **React & ASP .NET**
 - 👯 Looking to collaborate on [WordPress Dokan](https://wordpress.org/plugins/dokan-lite/)
 - 🤝 Seeking help with [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
 - 👨‍💻 All my projects & articles: [priyanshusharma44.github.io/profile](https://priyanshusharma44.github.io/profile/)
