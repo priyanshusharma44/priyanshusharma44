@@ -30,7 +30,7 @@
   <a href="https://twitter.com/kattelpriyanshu" target="_blank" rel="noopener">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/kattelpriyanshu?logo=twitter&style=social" />
   </a>
-  <a href="https://linkedin.com/in/priyanshusharma44" target="_blank" rel="noopener" style="margin-left:8px;">
+  <a href="https://www.linkedin.com/in/priyanshusharma4/" target="_blank" rel="noopener" style="margin-left:8px;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Sharma-blue?logo=linkedin&style=social" />
   </a>
   <a href="https://instagram.com/priyanshu.efx" target="_blank" rel="noopener" style="margin-left:8px;">
