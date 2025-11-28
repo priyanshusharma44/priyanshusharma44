@@ -55,7 +55,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />&nbsp;
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />&nbsp;
   <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" />&nbsp;
-  <img alt="Filmora" src="https://img.shields.io/badge/Filmora-00A0FF?logo=data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'/> &style=for-the-badge" />&nbsp;
   <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-1E1E1E?logo=adobepremierepro&logoColor=white&style=for-the-badge" />&nbsp;
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />&nbsp;
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />&nbsp;
