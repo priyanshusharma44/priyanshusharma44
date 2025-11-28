@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi👋, I am <b>Priyanshu Sharma</b></h1>
 <p align="center" style="font-size: 1.1rem; font-style: italic; color: #4a4a4a;">
-  1010 "Byte Wizard" 1010  <br />
+  *** "Bas Laga re!" ***  <br />
   <em>"Read, Commit, Repeat" 1010</em>
 </p>
 
@@ -20,7 +20,7 @@
 - 👯 Looking to collaborate on [WordPress Dokan](https://wordpress.org/plugins/dokan-lite/)
 - 🤝 Seeking help with [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
 - 👨‍💻 All my projects & articles: [priyanshusharma44.github.io/profile](https://priyanshusharma44.github.io/profile/)
-- 💬 Ask me about **Motion Graphics, .NET, WordPress**
+- 💬 Ask me about **Video Editing, .NET Coding, Graphics Designing & WP**
 - 📫 Reach me at **serjoramos4444@gmail.com**
 
 ---
