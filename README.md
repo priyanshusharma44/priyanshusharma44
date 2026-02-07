@@ -12,13 +12,9 @@
 
 <div align="center">
   <br>
-  <!-- Circular Avatar with Professional Styling -->
+  <!-- Circular Avatar -->
   <a href="https://github.com/priyanshusharma44">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/priyanshusharma44.png?size=180">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/priyanshusharma44.png?size=180">
-      <img src="https://github.com/priyanshusharma44.png?size=180" width="180" height="180" alt="Priyanshu Sharma" style="border-radius:50%;border:3px solid #F59E0B;"/>
-    </picture>
+    <img src="https://github.com/priyanshusharma44.png?size=180" width="180" height="180" alt="Priyanshu Sharma"/>
   </a>
   <br><br>
   
