@@ -2,9 +2,7 @@
 <!-- PROFESSIONAL HEADER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A5F,100:2D5A87&height=200&section=header&text=PRIYANSHU%20SHARMA&fontSize=50&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16&descColor=94A3B8" width="100%"/>
-</div>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- PROFESSIONAL INTRO WITH AVATAR -->
