@@ -81,7 +81,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,4,5,6&height=60&section=header&text=◈%20%20DEVELOPER%20DNA%20%20◈&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
+ 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,4,5,6&height=60&section=header&text=◈%20%20DEVELOPER%20DNA%20%20◈&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
 </picture>
 
