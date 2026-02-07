@@ -80,7 +80,7 @@
 /**
  * ═══════════════════════════════════════════════════
  * @author    Priyanshu Sharma
- * @role      Software Engineer
+ * @role      Web Developer | Software Developer 
  * @company   Lunar IT Solution
  * @focus     Enterprise Solutions & System Architecture
  * ═══════════════════════════════════════════════════
@@ -92,7 +92,7 @@ const engineer: TechProfile = {
     identity: {
         name: "Priyanshu Sharma",
         title: "Software Engineer",
-        location: "India 🇮🇳",
+        location: "Nepal NP",
         experience: "Professional Developer"
     },
     
