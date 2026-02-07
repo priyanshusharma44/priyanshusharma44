@@ -10,7 +10,7 @@
   
   <!-- 🌀 ANIMATED PROFILE RING -->
   <a href="https://github.com/priyanshusharma44">
-    <img src="https://github.com/priyanshusharma44.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 30px rgba(102, 126, 234, 0.6);"/>
+    <img src="https://github.com/priyanshusharma44.png" width="180" height="180" alt="Priyanshu Sharma - Software Engineer" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 30px rgba(102, 126, 234, 0.6);"/>
   </a>
   
   <br><br>
@@ -24,9 +24,6 @@
   
   <!-- 📊 DYNAMIC REAL-TIME STATS BADGES -->
   <p>
-    <a href="https://github.com/priyanshusharma44">
-      <img src="https://img.shields.io/badge/dynamic/json?color=667eea&label=%F0%9F%91%80%20PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpriyanshusharma44%2Freadme&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=priyanshusharma44&label=%F0%9F%91%81%EF%B8%8F+VISITORS&color=667eea&style=for-the-badge&labelColor=1a1b27" alt="Visitors"/>
     <a href="https://github.com/priyanshusharma44?tab=followers">
       <img src="https://img.shields.io/github/followers/priyanshusharma44?label=%F0%9F%A4%9D+FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=1a1b27" alt="Followers"/>
@@ -337,7 +334,7 @@ const priyanshu = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshusharma44&theme=tokyonight"/>
 </td>
 <td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshusharma44&theme=tokyonight&utcOffset=5.45"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshusharma44&theme=tokyonight&utcOffset=5.75"/>
 </td>
 </tr>
 </table>
@@ -438,11 +435,9 @@ const priyanshu = {
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <a href="https://github.com/priyanshusharma44">
+    <img src="https://github.com/priyanshusharma44/priyanshusharma44/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  </a>
 </div>
 
 <br>
