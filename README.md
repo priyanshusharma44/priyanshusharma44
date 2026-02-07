@@ -40,31 +40,55 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> Executive Summary
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=550&lines=💼+Software+Engineer+%7C+Full+Stack+Developer;🔧+Building+Enterprise-Grade+Solutions;🚀+Transforming+Ideas+Into+Reality" alt="Executive Summary" />
+  
+  <!-- Elegant Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%"/>
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=💼+Software+Engineer+%7C+Full+Stack+Developer;🔧+Building+Enterprise-Grade+Solutions;🚀+Transforming+Ideas+Into+Reality" alt="Executive Summary" />
+  
+  <br><br>
+  
+  <!-- Professional Quote Section -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/⚡_MISSION-Crafting_Digital_Excellence_Through_Innovation-0A192F?style=for-the-badge&labelColor=F59E0B" />
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
-<br>
+<br><br>
 
-<table align="center">
+<!-- Main Content Area with Enhanced Visual Design -->
+<table align="center" width="100%">
 <tr>
 <td width="55%" valign="top">
 
 <div align="center">
-
-### 🏗️ Technical Profile
+  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> Technical Profile
 
 </div>
 
+<br>
+
 ```typescript
 /**
- * @author Priyanshu Sharma
- * @role Software Engineer
- * @company Lunar IT Solution
- * @focus Enterprise Solutions & System Architecture
+ * ═══════════════════════════════════════════════════
+ * @author    Priyanshu Sharma
+ * @role      Software Engineer
+ * @company   Lunar IT Solution
+ * @focus     Enterprise Solutions & System Architecture
+ * ═══════════════════════════════════════════════════
  */
 
 const engineer: TechProfile = {
     
+    // ━━━━━━━━━━━ IDENTITY ━━━━━━━━━━━
     identity: {
         name: "Priyanshu Sharma",
         title: "Software Engineer",
@@ -72,6 +96,7 @@ const engineer: TechProfile = {
         experience: "Professional Developer"
     },
     
+    // ━━━━━━━━━ TECH EXPERTISE ━━━━━━━━━
     technicalExpertise: {
         backend: ["ASP.NET Core", "C#", "PHP", "RESTful APIs"],
         frontend: ["React.js", "TypeScript", "Modern CSS"],
@@ -80,13 +105,14 @@ const engineer: TechProfile = {
         architecture: ["Microservices", "MVC", "Clean Architecture"]
     },
     
+    // ━━━━━━━━━ CURRENT FOCUS ━━━━━━━━━
     currentFocus: [
-        "Scalable System Design",
-        "Cloud-Native Development", 
-        "Performance Optimization"
+        "🎯 Scalable System Design",
+        "☁️ Cloud-Native Development", 
+        "⚡ Performance Optimization"
     ],
     
-    methodology: "Results-driven development with emphasis on clean code"
+    methodology: "Results-driven development with clean code"
 };
 ```
 
@@ -95,21 +121,45 @@ const engineer: TechProfile = {
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharma44&layout=donut&theme=transparent&hide_border=true&bg_color=0A192F&title_color=F59E0B&text_color=94A3B8&langs_count=8" width="100%" />
+<div align="center">
+  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> Language Analytics
+
+</div>
 
 <br>
 
-### ⚡ Core Competencies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharma44&layout=donut&theme=transparent&hide_border=true&bg_color=0A192F&title_color=F59E0B&text_color=94A3B8&langs_count=8" width="95%" />
+
+<br><br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" /> Core Competencies
+
+<br>
 
 <div align="center">
 
 ![Backend](https://img.shields.io/badge/Backend-Expert-F59E0B?style=for-the-badge&labelColor=0A192F&logo=dotnet&logoColor=F59E0B)
+
+<br>
+
 ![Frontend](https://img.shields.io/badge/Frontend-Advanced-3B82F6?style=for-the-badge&labelColor=0A192F&logo=react&logoColor=3B82F6)
+
+<br>
+
 ![Database](https://img.shields.io/badge/Database-Advanced-10B981?style=for-the-badge&labelColor=0A192F&logo=postgresql&logoColor=10B981)
+
+<br>
+
 ![DevOps](https://img.shields.io/badge/DevOps-Proficient-8B5CF6?style=for-the-badge&labelColor=0A192F&logo=docker&logoColor=8B5CF6)
+
+<br>
+
 ![System Design](https://img.shields.io/badge/System_Design-Proficient-EC4899?style=for-the-badge&labelColor=0A192F&logo=blueprint&logoColor=EC4899)
 
 </div>
+
+<br>
 
 </td>
 </tr>
@@ -117,72 +167,143 @@ const engineer: TechProfile = {
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="25" /> Professional Highlights
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=🎯+Delivering+Excellence+in+Every+Line+of+Code;🌟+Passionate+About+Clean+Architecture;💡+Innovation+Meets+Execution" alt="Professional Highlights" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- PROFESSIONAL HIGHLIGHTS SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <br>
 
-<table align="center">
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="28" /> Professional Highlights
+
+<br>
+
+<!-- Elegant Subtitle Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="80%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=🎯+Delivering+Excellence+in+Every+Line+of+Code;🌟+Passionate+About+Clean+Architecture;💡+Innovation+Meets+Execution" alt="Professional Highlights" />
+
+<br><br>
+
+<!-- Highlight Quote -->
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/✨_PHILOSOPHY-Turning_Complex_Problems_Into_Elegant_Solutions-1E3A5F?style=for-the-badge&labelColor=3B82F6" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br><br>
+
+<!-- Enhanced Professional Highlights Cards -->
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🎯 Current Engagements
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="25" /> Current Engagements
 
 <br>
 
+<!-- Company Badge with Enhanced Styling -->
 <a href="https://github.com/priyanshusharma44">
-  <img src="https://img.shields.io/badge/🏢_Software_Engineer-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=1E3A5F" alt="Company"/>
+  <img src="https://img.shields.io/badge/🏢_Software_Engineer-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=F59E0B" alt="Company"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔧_Building-Enterprise_Grade_Web_Apps-F59E0B?style=flat-square&labelColor=0A192F" alt="Building"/>
-<br>
-<img src="https://img.shields.io/badge/📊_Implementing-Data_Driven_Solutions-3B82F6?style=flat-square&labelColor=0A192F" alt="Implementing"/>
-<br>
-<img src="https://img.shields.io/badge/🚀_Optimizing-System_Performance-10B981?style=flat-square&labelColor=0A192F" alt="Optimizing"/>
-<br>
-<img src="https://img.shields.io/badge/🏗️_Architecting-Scalable_Solutions-8B5CF6?style=flat-square&labelColor=0A192F" alt="Architecting"/>
+<!-- Activity Cards with Better Spacing -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔧_Building-Enterprise_Grade_Web_Apps-F59E0B?style=for-the-badge&labelColor=0A192F" alt="Building"/>
+    </td>
+  </tr>
+  <tr><td height="10"></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📊_Implementing-Data_Driven_Solutions-3B82F6?style=for-the-badge&labelColor=0A192F" alt="Implementing"/>
+    </td>
+  </tr>
+  <tr><td height="10"></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🚀_Optimizing-System_Performance-10B981?style=for-the-badge&labelColor=0A192F" alt="Optimizing"/>
+    </td>
+  </tr>
+  <tr><td height="10"></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏗️_Architecting-Scalable_Solutions-8B5CF6?style=for-the-badge&labelColor=0A192F" alt="Architecting"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<br>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 📬 Business Inquiries
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25" /> Business Inquiries
 
 <br>
 
+<!-- Email Badge with Enhanced Styling -->
 <a href="mailto:serjoramos4444@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-serjoramos4444@gmail.com-EA4335?style=for-the-badge&labelColor=0A192F" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_Email-serjoramos4444@gmail.com-0A192F?style=for-the-badge&labelColor=EA4335" alt="Email"/>
 </a>
 
 <br><br>
 
-<a href="https://priyanshusharma44.github.io/profile/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-F59E0B?style=flat-square&labelColor=0A192F" alt="Portfolio"/>
-</a>
-<br>
-<a href="https://github.com/priyanshusharma44">
-  <img src="https://img.shields.io/badge/💼_Open_For-Collaborations_&_Consulting-3B82F6?style=flat-square&labelColor=0A192F" alt="Collaborations"/>
-</a>
-<br>
-<a href="https://github.com/priyanshusharma44">
-  <img src="https://img.shields.io/badge/🤝_Available_For-Freelance_Projects-10B981?style=flat-square&labelColor=0A192F" alt="Freelance"/>
-</a>
-<br>
-<a href="https://www.linkedin.com/in/priyanshusharma4/">
-  <img src="https://img.shields.io/badge/💬_Connect_On-LinkedIn-0A66C2?style=flat-square&labelColor=0A192F" alt="LinkedIn"/>
-</a>
+<!-- Contact Cards with Better Spacing -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://priyanshusharma44.github.io/profile/">
+        <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-F59E0B?style=for-the-badge&labelColor=0A192F" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td height="10"></td></tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/priyanshusharma44">
+        <img src="https://img.shields.io/badge/💼_Open_For-Collaborations_&_Consulting-3B82F6?style=for-the-badge&labelColor=0A192F" alt="Collaborations"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td height="10"></td></tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/priyanshusharma44">
+        <img src="https://img.shields.io/badge/🤝_Available_For-Freelance_Projects-10B981?style=for-the-badge&labelColor=0A192F" alt="Freelance"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td height="10"></td></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/priyanshusharma4/">
+        <img src="https://img.shields.io/badge/💬_Connect-LinkedIn_Profile-0A66C2?style=for-the-badge&labelColor=0A192F" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<br>
 
 </td>
 </tr>
