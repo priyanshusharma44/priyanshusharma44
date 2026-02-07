@@ -40,7 +40,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=⚡%20WHO%20AM%20I%20⚡&fontSize=60&fontColor=F59E0B&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Solution%20Architect&descSize=18&descAlignY=65&descAlign=50"/>
+
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=⚡%20WHO%20AM%20I%20⚡&fontSize=60&fontColor=F59E0B&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Solution%20Architect&descSize=18&descAlignY=65&descAlign=50"/>
 </picture>
 
