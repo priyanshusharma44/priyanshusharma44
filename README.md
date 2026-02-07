@@ -12,7 +12,14 @@
 
 <div align="center">
   <br>
-  <img src="https://avatars.githubusercontent.com/u/101499662?v=4" width="180" alt="Priyanshu Sharma"/>
+  <!-- Circular Avatar with Professional Styling -->
+  <a href="https://github.com/priyanshusharma44">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/priyanshusharma44.png?size=180">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/priyanshusharma44.png?size=180">
+      <img src="https://github.com/priyanshusharma44.png?size=180" width="180" height="180" alt="Priyanshu Sharma" style="border-radius:50%;border:3px solid #F59E0B;"/>
+    </picture>
+  </a>
   <br><br>
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Architecting+Scalable+Enterprise+Solutions;Engineering+Excellence+Through+Clean+Code;Transforming+Business+Logic+Into+Digital+Reality" alt="Typing SVG" />
@@ -38,9 +45,21 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> Executive Summary
 
-<table>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=550&lines=💼+Software+Engineer+%7C+Full+Stack+Developer;🔧+Building+Enterprise-Grade+Solutions;🚀+Transforming+Ideas+Into+Reality" alt="Executive Summary" />
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
+
+<div align="center">
+
+### 🏗️ Technical Profile
+
+</div>
 
 ```typescript
 /**
@@ -55,7 +74,7 @@ const engineer: TechProfile = {
     identity: {
         name: "Priyanshu Sharma",
         title: "Software Engineer",
-        location: "India",
+        location: "India 🇮🇳",
         experience: "Professional Developer"
     },
     
@@ -73,26 +92,30 @@ const engineer: TechProfile = {
         "Performance Optimization"
     ],
     
-    methodology: "Results-driven development with emphasis on clean code, testing, and maintainability"
+    methodology: "Results-driven development with emphasis on clean code"
 };
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharma44&layout=compact&theme=transparent&hide_border=true&bg_color=0A192F&title_color=F59E0B&text_color=94A3B8&langs_count=8" width="100%" />
+<br>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharma44&layout=donut&theme=transparent&hide_border=true&bg_color=0A192F&title_color=F59E0B&text_color=94A3B8&langs_count=8" width="100%" />
+
+<br>
 
 ### ⚡ Core Competencies
 
-| Domain | Expertise |
-|:-------|:---------:|
-| Backend Development | ⬛⬛⬛⬛⬛ Expert |
-| Frontend Engineering | ⬛⬛⬛⬛⬜ Advanced |
-| Database Architecture | ⬛⬛⬛⬛⬜ Advanced |
-| System Design | ⬛⬛⬛⬜⬜ Proficient |
-| DevOps & CI/CD | ⬛⬛⬛⬜⬜ Proficient |
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend-Expert-F59E0B?style=for-the-badge&labelColor=0A192F&logo=dotnet&logoColor=F59E0B)
+![Frontend](https://img.shields.io/badge/Frontend-Advanced-3B82F6?style=for-the-badge&labelColor=0A192F&logo=react&logoColor=3B82F6)
+![Database](https://img.shields.io/badge/Database-Advanced-10B981?style=for-the-badge&labelColor=0A192F&logo=postgresql&logoColor=10B981)
+![DevOps](https://img.shields.io/badge/DevOps-Proficient-8B5CF6?style=for-the-badge&labelColor=0A192F&logo=docker&logoColor=8B5CF6)
+![System Design](https://img.shields.io/badge/System_Design-Proficient-EC4899?style=for-the-badge&labelColor=0A192F&logo=blueprint&logoColor=EC4899)
+
+</div>
 
 </td>
 </tr>
@@ -100,26 +123,72 @@ const engineer: TechProfile = {
 
 <br>
 
-### 📋 Professional Highlights
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="25" /> Professional Highlights
 
-<table>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=🎯+Delivering+Excellence+in+Every+Line+of+Code;🌟+Passionate+About+Clean+Architecture;💡+Innovation+Meets+Execution" alt="Professional Highlights" />
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎯 Current Engagements**
-- 🏢 Software Engineer @ **Lunar IT Solution**
-- 🔧 Building **enterprise-grade web applications**
-- 📊 Implementing **data-driven solutions**
-- 🚀 Optimizing **system performance & scalability**
+<div align="center">
+
+### 🎯 Current Engagements
+
+<br>
+
+<a href="https://github.com/priyanshusharma44">
+  <img src="https://img.shields.io/badge/🏢_Software_Engineer-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=1E3A5F" alt="Company"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔧_Building-Enterprise_Grade_Web_Apps-F59E0B?style=flat-square&labelColor=0A192F" alt="Building"/>
+<br>
+<img src="https://img.shields.io/badge/📊_Implementing-Data_Driven_Solutions-3B82F6?style=flat-square&labelColor=0A192F" alt="Implementing"/>
+<br>
+<img src="https://img.shields.io/badge/🚀_Optimizing-System_Performance-10B981?style=flat-square&labelColor=0A192F" alt="Optimizing"/>
+<br>
+<img src="https://img.shields.io/badge/🏗️_Architecting-Scalable_Solutions-8B5CF6?style=flat-square&labelColor=0A192F" alt="Architecting"/>
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📬 Business Inquiries**
-- 📧 Email: **serjoramos4444@gmail.com**
-- 🌐 Portfolio: [priyanshusharma44.github.io/profile](https://priyanshusharma44.github.io/profile/)
-- 💼 Open for: **Collaborations & Consulting**
-- 🤝 Available for: **Freelance Projects**
+<div align="center">
+
+### 📬 Business Inquiries
+
+<br>
+
+<a href="mailto:serjoramos4444@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-serjoramos4444@gmail.com-EA4335?style=for-the-badge&labelColor=0A192F" alt="Email"/>
+</a>
+
+<br><br>
+
+<a href="https://priyanshusharma44.github.io/profile/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-F59E0B?style=flat-square&labelColor=0A192F" alt="Portfolio"/>
+</a>
+<br>
+<a href="https://github.com/priyanshusharma44">
+  <img src="https://img.shields.io/badge/💼_Open_For-Collaborations_&_Consulting-3B82F6?style=flat-square&labelColor=0A192F" alt="Collaborations"/>
+</a>
+<br>
+<a href="https://github.com/priyanshusharma44">
+  <img src="https://img.shields.io/badge/🤝_Available_For-Freelance_Projects-10B981?style=flat-square&labelColor=0A192F" alt="Freelance"/>
+</a>
+<br>
+<a href="https://www.linkedin.com/in/priyanshusharma4/">
+  <img src="https://img.shields.io/badge/💬_Connect_On-LinkedIn-0A66C2?style=flat-square&labelColor=0A192F" alt="LinkedIn"/>
+</a>
+
+</div>
 
 </td>
 </tr>
