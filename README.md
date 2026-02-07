@@ -12,7 +12,7 @@
 
 <div align="center">
   <br>
-  <img src="https://avatars.githubusercontent.com/u/101499662?v=4" width="180" style="border-radius: 50%;" alt="Priyanshu Sharma"/>
+  <img src="https://avatars.githubusercontent.com/u/101499662?v=4" width="180" alt="Priyanshu Sharma"/>
   <br><br>
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Architecting+Scalable+Enterprise+Solutions;Engineering+Excellence+Through+Clean+Code;Transforming+Business+Logic+Into+Digital+Reality" alt="Typing SVG" />
@@ -73,8 +73,7 @@ const engineer: TechProfile = {
         "Performance Optimization"
     ],
     
-    methodology: "Results-driven development with emphasis on 
-                  clean code, testing, and maintainability"
+    methodology: "Results-driven development with emphasis on clean code, testing, and maintainability"
 };
 ```
 
@@ -87,13 +86,13 @@ const engineer: TechProfile = {
 
 ### ⚡ Core Competencies
 
-| Domain | Expertise Level |
-|:------:|:---------------:|
-| Backend Development | ████████████ 95% |
-| Frontend Engineering | ███████████░ 90% |
-| Database Architecture | ██████████░░ 85% |
-| System Design | █████████░░░ 80% |
-| DevOps & CI/CD | ████████░░░░ 75% |
+| Domain | Expertise |
+|:-------|:---------:|
+| Backend Development | ⬛⬛⬛⬛⬛ Expert |
+| Frontend Engineering | ⬛⬛⬛⬛⬜ Advanced |
+| Database Architecture | ⬛⬛⬛⬛⬜ Advanced |
+| System Design | ⬛⬛⬛⬜⬜ Proficient |
+| DevOps & CI/CD | ⬛⬛⬛⬜⬜ Proficient |
 
 </td>
 </tr>
@@ -182,7 +181,7 @@ const engineer: TechProfile = {
 
 <p align="center">
   <a href="https://github.com/priyanshusharma44">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusharma44&show_icons=true&theme=transparent&hide_border=true&bg_color=0A192F&title_color=F59E0B&icon_color=F59E0B&text_color=94A3B8&include_all_commits=true&count_private=true&ring_color=F59E0B" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusharma44&show_icons=true&theme=transparent&hide_border=true&bg_color=0A192F&title_color=F59E0B&icon_color=F59E0B&text_color=94A3B8&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusharma44&theme=transparent&hide_border=true&background=0A192F&stroke=1E3A5F&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" />
   </a>
 </p>
