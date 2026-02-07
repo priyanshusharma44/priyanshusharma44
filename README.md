@@ -374,7 +374,7 @@ const priyanshu = {
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshusharma44&theme=github_dark" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshusharma44&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshusharma44&theme=github_dark&utcOffset=5.75" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshusharma44&theme=github_dark&utcOffset=5.45" width="32%" />
 </p>
 
 <br>
@@ -523,8 +523,10 @@ const priyanshu = {
   
   <br>
   
-  <!-- LAST UPDATED BADGE -->
-  <img src="https://img.shields.io/badge/Last_Updated-2025-00D9FF?style=flat-square&labelColor=0D1117" />
+  <!-- DYNAMIC LAST UPDATED - Shows repo activity -->
+  <a href="https://github.com/priyanshusharma44/priyanshusharma44/commits">
+    <img src="https://img.shields.io/github/last-commit/priyanshusharma44/priyanshusharma44?label=Last%20Updated&style=flat-square&color=00D9FF&labelColor=0D1117" />
+  </a>
   
 </div>
 
