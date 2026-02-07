@@ -14,7 +14,7 @@
   <br>
   <!-- Circular Avatar -->
   <a href="https://github.com/priyanshusharma44">
-    <img src="https://github.com/priyanshusharma44.png?size=180" width="180" height="180" alt="Priyanshu Sharma"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEMuVKIkgvMxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhVcgObHsAg-/0/1753780194048?e=1772064000&v=beta&t=6zcktGiSOxXJMUP9SEuXcEej6xkNyx8RQ7v9DtU0_Mw" width="180" height="180" alt="Priyanshu Sharma"/>
   </a>
   <br><br>
   
