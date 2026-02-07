@@ -214,7 +214,7 @@ const engineer: TechProfile = {
 
 <!-- Company Badge with Enhanced Styling -->
 <a href="https://github.com/priyanshusharma44">
-  <img src="https://img.shields.io/badge/🏢_SOFTWARE_ENGINEER-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=F59E0B" alt="Company"/>
+  <img src="https://img.shields.io/badge/🏢_Software_Engineer-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=F59E0B" alt="Company"/>
 </a>
 
 <br><br>
@@ -261,7 +261,7 @@ const engineer: TechProfile = {
 
 <!-- Email Badge with Enhanced Styling -->
 <a href="mailto:serjoramos4444@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-serjoramos4444@gmail.com-0A192F?style=for-the-badge&labelColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_Email-serjoramos4444@gmail.com-0A192F?style=for-the-badge&labelColor=EA4335" alt="Email"/>
 </a>
 
 <br><br>
@@ -287,7 +287,7 @@ const engineer: TechProfile = {
   <tr>
     <td align="center">
       <a href="https://github.com/priyanshusharma44">
-        <img src="https://img.shields.io/badge/🤝_Available-Freelance_Projects-10B981?style=for-the-badge&labelColor=0A192F" alt="Freelance"/>
+        <img src="https://img.shields.io/badge/🤝_Available_For-Freelance_Projects-10B981?style=for-the-badge&labelColor=0A192F" alt="Freelance"/>
       </a>
     </td>
   </tr>
