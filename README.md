@@ -136,7 +136,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,26,27,28&height=60&section=header&text=☕%20%20CURRENTLY%20BREWING%20%20☕&fontSize=28&fontColor=F59E0B&animation=fadeIn"/>
+ 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,26,27,28&height=60&section=header&text=☕%20%20CURRENTLY%20BREWING%20%20☕&fontSize=28&fontColor=F59E0B&animation=fadeIn"/>
 </picture>
 
@@ -206,7 +206,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,15,16,17,18&height=60&section=header&text=⚡%20%20TECH%20ARSENAL%20%20⚡&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
+
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,15,16,17,18&height=60&section=header&text=⚡%20%20TECH%20ARSENAL%20%20⚡&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
 </picture>
 
@@ -271,7 +271,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,9,10,11,12&height=60&section=header&text=📊%20%20PERFORMANCE%20MATRIX%20%20📊&fontSize=28&fontColor=F59E0B&animation=fadeIn"/>
+ 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,9,10,11,12&height=60&section=header&text=📊%20%20PERFORMANCE%20MATRIX%20%20📊&fontSize=28&fontColor=F59E0B&animation=fadeIn"/>
 </picture>
 
@@ -318,7 +318,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,4,5,6&height=60&section=header&text=🌐%20%20LET'S%20CONNECT%20%20🌐&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
+
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,4,5,6&height=60&section=header&text=🌐%20%20LET'S%20CONNECT%20%20🌐&fontSize=28&fontColor=00D9FF&animation=fadeIn"/>
 </picture>
 
@@ -400,7 +400,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,18,20&height=60&section=header&text=📈%20%20DEEP%20ANALYTICS%20%20📈&fontSize=28&fontColor=F59E0B&animation=fadeIn"/>
+ 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,18,20&height=60&section=header&text=📈%20%20DEEP%20ANALYTICS%20%20📈&fontSize=28&fontColor=F59E0B&animation=fadeIn"/>
 </picture>
 
