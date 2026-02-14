@@ -344,7 +344,7 @@ const engineer: TechProfile = {
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Creative & Design Tools</b></summary>
 <br>
 <p align="center">
