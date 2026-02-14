@@ -91,7 +91,7 @@ const engineer: TechProfile = {
     // ━━━━━━━━━━━ IDENTITY ━━━━━━━━━━━
     identity: {
         name: "Priyanshu Sharma",
-        title: "Software Engineer",
+        title: "Web Developer | Video Editor",
         location: "Nepal NP",
         experience: "Professional Developer"
     },
