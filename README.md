@@ -184,7 +184,7 @@ const engineer: TechProfile = {
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=🎯+Delivering+Excellence+in+Every+Line+of+Code;🌟+Passionate+About+Clean+Architecture;💡+Innovation+Meets+Execution" alt="Professional Highlights" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Full+Stack+Engineering;%F0%9F%8C%90+Modern+Web+Technologies;%F0%9F%93%A6+End-to-End+Application+Delivery" alt="Professional Highlights" />
 
 <br><br>
 
