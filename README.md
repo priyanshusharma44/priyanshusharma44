@@ -46,7 +46,7 @@
   
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=💼+Software+Engineer+%7C+Full+Stack+Developer;🔧+Building+Enterprise-Grade+Solutions;🚀+Transforming+Ideas+Into+Reality" alt="Executive Summary" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+Developer;Building+Enterprise-Grade+Solutions;Transforming+Ideas+Into+Reality" alt="Executive Summary" />
   
   <br><br>
   
