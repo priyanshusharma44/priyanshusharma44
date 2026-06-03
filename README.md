@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/472c5b39-1155-4142-a651-ea1860a591da" /><!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- PROFESSIONAL HEADER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -12,7 +12,7 @@
   <br>
   <!-- Circular Avatar -->
   <a href="https://github.com/priyanshusharma44">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEMuVKIkgvMxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhVcgObHsAg-/0/1753780194048?e=1773878400&v=beta&t=MKpq7w1MHm4K9nN9aC9W1C8fiJsormB7O4N6GN3IDJ8" width="1000" height="500" alt="Priyanshu Sharma"/>
+    <img src="https://www.linkedin.com/in/priyanshusharma4/overlay/background-photo/" width="1000" height="500" alt="Priyanshu Sharma"/>
   </a>
   <br><br>
   
