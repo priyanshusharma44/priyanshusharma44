@@ -12,7 +12,7 @@
   <br>
   <!-- Circular Avatar -->
   <a href="https://github.com/priyanshusharma44">
-    <img src="https://www.linkedin.com/in/priyanshusharma4/overlay/background-photo/" width="1000" height="500" alt="Priyanshu Sharma"/>
+    <img src="https://www.linkedin.com/in/priyanshusharma4/overlay/background-photo/" width="1000" height="500" />
   </a>
   <br><br>
   
