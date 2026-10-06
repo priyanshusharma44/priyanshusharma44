@@ -12,7 +12,7 @@
   <br>
   <!-- Circular Avatar -->
   <a href="https://github.com/priyanshusharma44">
-    <img src="https://github.com/priyanshusharma44.png" width="220" height="220" alt="Priyanshu Sharma Avatar"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEMuVKIkgvMxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhVcgObHsAg-/0/1753780194048?e=1772064000&v=beta&t=6zcktGiSOxXJMUP9SEuXcEej6xkNyx8RQ7v9DtU0_Mw" width="1000" height="500" alt="Priyanshu Sharma"/>
   </a>
   <br><br>
   
@@ -451,7 +451,7 @@
 <br>
 
 <!-- Unique Signature -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=30&lines=Crafted+with+%E2%9D%A4%EF%B8%8F+by+Priyanshu+Sharma+%7C+%C2%A9+2026" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=30&lines=Crafted+with+%E2%9D%A4%EF%B8%8F+by+Priyanshu+Sharma+%7C+%C2%A9+2024" alt="Signature" />
 
 <br><br>
 
