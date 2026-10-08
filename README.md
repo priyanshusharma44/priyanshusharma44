@@ -41,7 +41,7 @@
   
   <br><br>
   
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+Developer;Building+Enterprise-Grade+Solutions;Transforming+Ideas+Into+Reality" alt="Executive Summary" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Full+Stack+Developer;Building+Enterprise-Grade+Solutions;Transforming+Ideas+Into+Reality" alt="Executive Summary" />
   
   <br><br>
   
@@ -209,7 +209,7 @@ const engineer: TechProfile = {
 
 <!-- Company Badge with Enhanced Styling -->
 <a href="https://github.com/priyanshusharma44">
-  <img src="https://img.shields.io/badge/🏢_Software_Engineer-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=F59E0B" alt="Company"/>
+  <img src="https://img.shields.io/badge/🏢_Web_Developerr-Lunar_IT_Solution-0A192F?style=for-the-badge&labelColor=F59E0B" alt="Company"/>
 </a>
 
 <br><br>
