@@ -88,13 +88,13 @@ const engineer: TechProfile = {
         name: "Priyanshu Sharma",
         title: "Web Developer | Video Editor",
         location: "Nepal NP",
-        experience: "Professional Developer"
+        experience: "Web & App Development "
     },
     
     // ━━━━━━━━━ TECH EXPERTISE ━━━━━━━━━
-    technicalExpertise: {
+    technicalKnowlegde: {
         backend: ["ASP.NET Core", "C#", "PHP", "RESTful APIs"],
-        frontend: ["React.js", "TypeScript", "Modern CSS"],
+        frontend: ["React.js", "Modern CSS & TailwindCSS"],
         databases: ["SQL Server", "MySQL", "PostgreSQL"],
         devOps: ["Git", "Docker", "CI/CD Pipelines"],
         architecture: ["Microservices", "MVC", "Clean Architecture"]
