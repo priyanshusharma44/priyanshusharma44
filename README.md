@@ -11,12 +11,7 @@
 <div align="center">
   <br>
   <!-- Circular Avatar -->
-  <a href="https://github.com/priyanshusharma44">
-    <img src="https://www.linkedin.com/in/priyanshusharma4/overlay/background-photo/" width="1000" height="500" alt="priyanshu"/>
-  </a>
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Architecting+Scalable+Enterprise+Solutions;Engineering+Excellence+Through+Clean+Code;Transforming+Business+Logic+Into+Digital+Reality" alt="Typing SVG" />
+ 
   
   <br><br>
   
